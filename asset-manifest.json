@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mansi-10-4/ZenGarden/static/css/main.b9fe496e.css",
+    "main.js": "/Mansi-10-4/ZenGarden/static/js/main.9321e5aa.js",
+    "static/js/453.af5f2a6c.chunk.js": "/Mansi-10-4/ZenGarden/static/js/453.af5f2a6c.chunk.js",
+    "index.html": "/Mansi-10-4/ZenGarden/index.html",
+    "main.b9fe496e.css.map": "/Mansi-10-4/ZenGarden/static/css/main.b9fe496e.css.map",
+    "main.9321e5aa.js.map": "/Mansi-10-4/ZenGarden/static/js/main.9321e5aa.js.map",
+    "453.af5f2a6c.chunk.js.map": "/Mansi-10-4/ZenGarden/static/js/453.af5f2a6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9fe496e.css",
+    "static/js/main.9321e5aa.js"
+  ]
+}
