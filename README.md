@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/japanese-garden-landscape-with-torii-gate-bamboo-trees_107791-12112.jpg" alt="ZenGarden Banner" width="100%" />
-</p>
-
 <h1 align="center">🌿 ZenGarden</h1>
 
 <p align="center">
